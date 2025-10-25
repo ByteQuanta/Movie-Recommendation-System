@@ -7,7 +7,8 @@ Additionally, the model is optimized using **Optuna** for hyperparameter tuning.
 ---
 
 ## Important Note
-The source of the dataset used in this project is [Kaggle]((https://www.kaggle.com/datasets/mohamedelmallah1/movielens-1m-with-posters-and-metadata?select=users.csv))
+The source of the dataset used in this project is [Kaggle](https://www.kaggle.com/datasets/mohamedelmallah1/movielens-1m-with-posters-and-metadata?select=users.csv)
+
 
 ---
 
